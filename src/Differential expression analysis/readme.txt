@@ -1,0 +1,2 @@
+1.Dataset is the gene expression data of datasets GSE46955, GSE69528 and GSE54514.
+2.Rcode is the code for differential expression analysis of datasets GSE46955, GSE69528 and GSE54514, and p.val<0.05 is used to screen differentially expressed genes.

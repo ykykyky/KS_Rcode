@@ -1,0 +1,1 @@
+This code is used to build the disease labels. For all genes in each pathway, add logFC of differentially expressed genes in the current dataset. If the genes in the pathway are not in the differentially expressed genes, they will be ignored.
